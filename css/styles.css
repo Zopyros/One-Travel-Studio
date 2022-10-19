@@ -21,6 +21,12 @@ h1{
     padding-bottom: 30px;
 }
 
+h2{
+    font-weight: bold;
+    font-size: 3rem;
+    line-height:2;
+}
+
 h3{
     font-weight: bold;
 }
@@ -70,4 +76,48 @@ background-color:#ffffff
 
 .icon:hover{
     color:#a53860
+}
+
+/* End of Feature */
+
+
+.testimonial{
+    height: 270px;
+    width: 270px;
+    border-radius:100%;
+    margin:20px;
+   
+}
+#testimonials{
+   
+    background-color:#450920;
+    text-align: center;
+}
+
+.carousel-item{
+    padding:7% 15%;
+}
+
+.person {
+    color: #f9dbbd;
+    
+}
+
+em{
+    color: #f9dbbd;
+    padding-left:2%;
+}
+
+#press{
+    text-align:center;
+    padding-bottom: 3%;
+    padding-top:3%;
+    
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+    padding-left:1%;
+     padding-right: 1%;
 }
